@@ -40,3 +40,17 @@ AI-Software-Engineering-Assignment/
 │ ├── manual_sort.py
 │ ├── copilot_sort.py
 │ └── analysis.txt
+Task2_AutomatedTesting/
+├── Task3_PredictiveAnalytics/
+│ ├── breast_cancer_model.ipynb
+├── Ethical_Reflection.txt
+├── Bonus_Innovation_Proposal.pdf
+├── Report.pdf
+└── 
+
+
+## 👨‍💻 Author
+- Sethyasto (Aming'a)
+
+## 📜 License
+This project is licensed under the MIT License.
